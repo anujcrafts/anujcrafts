@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujcrafts/anujcrafts/output/github-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujcrafts/anujcrafts/output/github-snake.gif" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/anujcrafts/anujcrafts/output/github-snake.gif" />
+</picture>
           
 
 
